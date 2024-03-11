@@ -1,1 +1,1 @@
-# cat_dog_image_classifier-
+Developed a high-performance Cat-Dog Image Classifier using advanced machine learning techniques. Achieved exceptional accuracy in distinguishing between cats and dogs. The project showcases my expertise in image classification and highlights the potential for real-world applications in pet identification and beyond. Excited about the impact of this project and eager to explore further opportunities in the field of computer vision. 🐾📷
